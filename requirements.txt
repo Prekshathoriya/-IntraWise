@@ -1,6 +1,9 @@
 streamlit
 chromadb
 langchain
+langchain-community
 sentence-transformers
 pypdf
-ollama
+transformers
+accelerate
+torch
